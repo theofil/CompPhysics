@@ -1,5 +1,4 @@
 # Computational Physics Course --  National and Kapodistrian University of Athens 
-# Υπολογιστική Φυσική -- Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
 ![nkua logo](https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg)
 
 

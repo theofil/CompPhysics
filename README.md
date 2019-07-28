@@ -1,5 +1,4 @@
-# Computational Physics Course -- National and Kapodistrian University of Athens 
-<img align="right" width="100" height="100" src="https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg">
+# Computational Physics Course -- National and Kapodistrian University of Athens  <img align="right" width="200" src="https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg">
 
 Material for my course of Computational Physics, in National and Kapodistrian University of Athens (2019-2020). 
 A platform independent web-based environment of commonly used open source software is provided, 

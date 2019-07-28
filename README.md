@@ -20,8 +20,13 @@ and the students are encouraged to master them as much as they want, or not at a
 The students are strongly encouraged to create their own favorite environment in 
 their personal computer, once they feel ready to do so.
 
-# Launch Computational Environment in Binder
-Click on this button, [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/theofil/CompPhysics/master), to launch an interactive Python3 environment and play with templates and examples of computational algorithms taught in the course.
+# Launch Interactive Computational Environment (Python3 in Binder)
+Click on the ''launch binder button'' 
+
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/theofil/CompPhysics/master)
+
+to launch an interactive Python3 environment and play with templates and examples of computational algorithms taught in the course.
+*Warning* the launching of the interactive environment takes approximately ~3.5 minutes, so be patient!
 
 # About the author
 [Konstantinos Theofilatos](http://theofil.web.cern.ch) is an Associate Professor of Physics in National and Kapodistrian University of Athens.

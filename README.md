@@ -1,4 +1,4 @@
-# Computational Physics Course --  National and Kapodistrian University of Athens -- [[https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg|alt=nkua_logo]]
+# Computational Physics Course --  National and Kapodistrian University of Athens ![nkua logo](https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg)
 # Υπολογιστική Φυσική -- Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
 
 Material for my course of Computational Physics, in National and Kapodistrian University of Athens (2019-2020). 

@@ -1,4 +1,4 @@
-# Computational Physics Course --  National and Kapodistrian University of Athens
+# Computational Physics Course --  National and Kapodistrian University of Athens -- [[https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg|alt=nkua_logo]]
 # Υπολογιστική Φυσική -- Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών
 
 Material for my course of Computational Physics, in National and Kapodistrian University of Athens (2019-2020). 
@@ -16,7 +16,8 @@ The dependencies are kept to a good minimum:
  * jupyter notebooks
 
 and the students are encouraged to master them as much as they want, or not at all. 
-*The usuage of the present computational enviroment is optional* by the students enrolled in the official course at NKUA.
+*The usuage of the present computational enviroment is optional* by the students enrolled in course. 
+The students are strongly encouraged to create their own favorite enviroment in their personal computer, once they feel ready to do so.
 
 # Launch Computational Enviroment in Binder
 

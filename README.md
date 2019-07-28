@@ -1,9 +1,8 @@
 # Computational Physics Course --  National and Kapodistrian University of Athens 
 ![nkua logo](https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg)
 
-
 Material for my course of Computational Physics, in National and Kapodistrian University of Athens (2019-2020). 
-A platform independent web-based enviroment of commonly used open source software is provided, 
+A platform independent web-based environment of commonly used open source software is provided, 
 for each student to be able to study the course's material 
 without having the burden to install manually on a private computer the software on its own.
 
@@ -17,11 +16,16 @@ The dependencies are kept to a good minimum:
  * jupyter notebooks
 
 and the students are encouraged to master them as much as they want, or not at all. 
-*The usuage of the present computational enviroment is optional* by the students enrolled in course. 
-The students are strongly encouraged to create their own favorite enviroment in their personal computer, once they feel ready to do so.
+*The usage of the present computational environment is optional* and is only meant to serve those that find it useful. 
+The students are strongly encouraged to create their own favorite environment in 
+their personal computer, once they feel ready to do so.
 
-# Launch Computational Enviroment in Binder
-
+# Launch Computational Environment in Binder
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/theofil/CompPhysics/master)
+
+
+# About the author
+[Konstantinos Theofilatos](http://theofil.web.cern.ch) is an Associate Professor of Physics in National and Kapodistrian University of Athens.
+This website was created on July 2019 and is updated at best effort basis.
 
 

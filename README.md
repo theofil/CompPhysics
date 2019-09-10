@@ -24,14 +24,16 @@ You can use your gmail account to open via http://colab.research.google.com all 
 
 ### Code examples
 
-The code examples provided, are written having in mind two principles:
+The code examples provided, are written having in mind three principles:
+
    * reflect the math forms and the algorithms taugh symbolically *as-they-appear* in the lecture
-   * code lenght should be minimal and take least effort to comprehend. 
-That is to say, that the code is not always optimized for efficiency and execution speed. 
-Such optimizations, while important, can in some cases obscure the transperency of the steps executed by the code.
+   * code lenght should be minimal and take least effort to comprehend
+   * assume little, or zero programming skills
+   
+That is to say, that the code is not always optimized having in mind efficiency and execution speed. 
+Such optimizations, while important, can in some cases obscure transperency.
 The code is attempted to be kept as simple as possible such as the core ideas of the underline algorithms emerge 
-without much effort when reading the code. 
-It also assumes, little or zero programming skills.
+without much effort, when reading the code. 
 
 ### External dependencies
 Python packages used in scientific computing and data science are taught through examples. 
@@ -42,6 +44,7 @@ The dependencies are kept to a good minimum:
  * numpy
  * matplotlib
  * jupyter notebooks
+ * google colab
 
 
 ### About the Author

@@ -21,8 +21,11 @@ to launch an interactive Python3 environment and play with templates and example
 You can use your gmail/android account to open via http://colab.research.google.com all code write-ups. 
 In that case you just need to browse the code in https://github.com/theofil/CompPhysics.
 
+### Links
+   * main repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
+   * code examples: [theofil/CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples)
 
-### Code examples
+### Code examples 
 The code examples provided for demonstration purposes, are written having in mind three principles:
 
    * reflect the math forms taught symbolically *as-they-appear* in the lecture

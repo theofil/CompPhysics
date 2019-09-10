@@ -2,9 +2,9 @@
 
 ![nkua logo](https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg) 
 
-This website provides a cloud-based **interactive** computing environment, for my course of Computational Physics [Υπολογιστική Φυσική Υ0338](https://eclass.uoa.gr/modules/document/?course=PHYS192), in National and Kapodistrian University of Athens (2019-2020). 
+[This website](https://theofil.github.io/CompPhysics/) provides a cloud-based **interactive** computing environment, for my course of Computational Physics [Υπολογιστική Φυσική Υ0338](https://eclass.uoa.gr/modules/document/?course=PHYS192), in National and Kapodistrian University of Athens (2019-2020). 
 
-By using this interactive environment, the students are be able to study and **practice real implementations** of the course's material 
+By using this custom made interactive environment, the students are be able to study and **practice real implementations** of the course's material 
 without having the burden to install manually on their own any software in a private computer.
 *The usage of the present computational environment is optional* and is only meant to serve those that find it useful. 
 The students are strongly encouraged to create their own favorite environment (C/C++, FORTRAN, Matlab, Java, R, Mathematica, Python, Julia ... you name it) in their personal computer, once they feel ready to do so.
@@ -23,19 +23,20 @@ In that case you just need to browse the code in https://github.com/theofil/Comp
 
 ### Links
    * main repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
-   * code examples: [theofil/CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples)
+   * code examples: [CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples)
+   * [e-class](https://eclass.uoa.gr/modules/document/?course=PHYS192) 
 
 ### Code examples 
-The code examples provided for demonstration purposes, are written having in mind three principles:
+The code in [CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples) is provided for demonstration purposes and is written having in mind three principles:
 
    * reflect the math forms taught symbolically *as-they-appear* in the lecture
    * code length should be minimal and take least effort to comprehend
    * assume little, or zero programming skills 
    
-That is to say, that the code is not always optimized having in mind efficiency and execution speed. 
-Such fine tuning of the code, while important, can in some cases obscure transparency at first site.
-Instead, it is purposefully attempted to demonstrate the core ideas of the underline algorithms, leaving 
-higher order optimization (which are often problem-specific) as work assignments for the students.
+That is to say, the code is not always optimized having in mind efficiency of execution. 
+Fine tuning of the execution flow, while important for speed and precision, often obscures transparency at first site.
+Instead, it is purposefully attempted to just demonstrate the core ideas of the underline algorithms, leaving 
+higher order optimization (which could be problem-specific) to be discussed in class or in homework assigments.
 
 ### External dependencies
 Python packages used in scientific computing and data science are taught through examples. 

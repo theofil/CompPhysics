@@ -2,9 +2,9 @@
 
 ![nkua logo](https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg) 
 
-This website provides a custom made cloud-based **interactive** computing enviroment, for practising the themes of my course in Computational Physics [Υπολογιστική Φυσική Υ0338](https://eclass.uoa.gr/modules/document/?course=PHYS192), in National and Kapodistrian University of Athens (2019-2020). 
+This website provides a cloud-based **interactive** computing enviroment, for my course of Computational Physics [Υπολογιστική Φυσική Υ0338](https://eclass.uoa.gr/modules/document/?course=PHYS192), in National and Kapodistrian University of Athens (2019-2020). 
 
-By using this interactive enviroment, the students are be able to study the course's material 
+By using this interactive enviroment, the students are be able to study and **practise with real implementations** of the course's material 
 without having the burden to install manually on their own, software on a a private computer.
 *The usage of the present computational environment is optional* and is only meant to serve those that find it useful. 
 The students are strongly encouraged to create their own favorite environment (C/C++, Matlab, Java, R, Mathematica, Python, Julia ... you name it) in 

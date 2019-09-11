@@ -1,4 +1,4 @@
-# Computational Physics 
+# Computational Physics -- Υπολογιστική Φυσική Y0338
 
 [This website](https://theofil.github.io/CompPhysics/) provides a cloud-based **interactive** computing environment, for my course of Computational Physics [Υπολογιστική Φυσική Υ0338](https://eclass.uoa.gr/modules/document/?course=PHYS192), in National and Kapodistrian University of Athens (2019-2020). 
 

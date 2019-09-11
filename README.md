@@ -1,6 +1,4 @@
-# Computational Physics -- National and Kapodistrian University of Athens  
-
-![nkua logo](https://www.uoa.gr/fileadmin/user_upload/uoa_logo_gr.svg) 
+# Computational Physics 
 
 [This website](https://theofil.github.io/CompPhysics/) provides a cloud-based **interactive** computing environment, for my course of Computational Physics [Υπολογιστική Φυσική Υ0338](https://eclass.uoa.gr/modules/document/?course=PHYS192), in National and Kapodistrian University of Athens (2019-2020). 
 

@@ -1,4 +1,4 @@
-// for the random number: http://www.cplusplus.com/reference/cstdlib/rand/
+// for the random numbers: http://www.cplusplus.com/reference/cstdlib/rand/
 #include <stdio.h>      /* printf, scanf, puts, NULL */
 #include <stdlib.h>     /* srand, rand */
 #include <time.h>       /* time */

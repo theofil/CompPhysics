@@ -22,6 +22,7 @@ In that case you just need to browse the code in https://github.com/theofil/Comp
 ### Links
    * main repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
    * code examples: [CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples)
+   * problems: [CompPhysics/problems](https://github.com/theofil/CompPhysics/tree/master/problems/2019_2020)
    * [e-class](https://eclass.uoa.gr/modules/document/?course=PHYS192) 
 
 ### Code examples 

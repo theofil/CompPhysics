@@ -22,7 +22,8 @@ In that case you just need to browse the code in https://github.com/theofil/Comp
 ### Links
    * main repository in github: [theofil/CompPhysics](https://github.com/theofil/CompPhysics/) 
    * code examples: [CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples)
-   * problems: [CompPhysics/problems](https://github.com/theofil/CompPhysics/tree/master/problems/2019_2020)
+   * problems: [CompPhysics/problems](https://github.com/theofil/CompPhysics/tree/master/problems/)
+   * FAQ: [CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/FAQ)
    * [e-class](https://eclass.uoa.gr/modules/document/?course=PHYS192) 
 
 ### Code examples 
@@ -36,18 +37,6 @@ That is to say, the code is not always optimized having in mind efficiency of ex
 Fine tuning of the execution flow, while important for speed and precision, often obscures transparency at first site.
 Instead, it is purposefully attempted to just demonstrate the core ideas of the underline algorithms, leaving 
 higher order optimization (which could be problem-specific) to be discussed in class or in homework assigments.
-
-### External dependencies
-Python packages used in scientific computing and data science are taught through examples. 
-The dependencies are kept to a good minimum:
-
- * Binder
- * Python 3
- * numpy
- * matplotlib
- * jupyter notebooks
- * google colab
-
 
 ### About the Author
 [Konstantinos Theofilatos](http://theofil.web.cern.ch) is an Associate Professor of Physics in National and Kapodistrian University of Athens.

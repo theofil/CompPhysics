@@ -6,7 +6,7 @@ you would be more comfortable to have a local text editor/ide installed in your 
 My advice would be to test 
 a text editor, since it is more lightweight and versatile than an ide, but it comes to personal preference after all. I personally use Visual Code Studio to writy both Python and C\C++ code and I'm pretty fullfiled by it. You can find plenty of videos in youtube to help you get started.
 
-**Try it yourself!**
+<p align="center"><strong> Try it yourself! </strong></p>
 
 # Contact Infos
 

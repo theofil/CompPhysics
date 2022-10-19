@@ -1,4 +1,4 @@
-// example of C code in how to generated uniformly distributed randoms in [0,1) using stdlib and time
+// example of C code on how to generate uniformly distributed randoms in [0,1) using stdlib and time
 #include <time.h>
 #include <stdlib.h>
 #include<stdio.h>

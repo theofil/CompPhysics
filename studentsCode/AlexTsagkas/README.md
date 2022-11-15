@@ -17,4 +17,4 @@ For credits and bugs in the programs in this folder you can contact me via email
 I'm a student in the Physics Department of National and Kapodistrian University of Athens and I love to code in my free time.
 
 
-Further information about me could be found in my git.hub account: https://github.com/AlexTsagas.
+Further information about me could be found in my git.hub account: https://github.com/alextsagkas.

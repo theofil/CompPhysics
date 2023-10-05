@@ -11,7 +11,7 @@ int main ()
 
     for(unsigned int i = 0 ; i < N; ++i)
     {
-	float z= x[i];
+	    float z= x[i];
         sumX  += z;
         sumX2 += z*z;
     }

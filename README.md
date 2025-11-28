@@ -8,6 +8,18 @@ Cloud-based **interactive** computing environment for the Computational Physics 
 
 Visit <a href="http://theofil.web.cern.ch/theofil/courses/compPhysics/"> http://theofil.web.cern.ch/theofil/courses/compPhysics/</a> for slides, notes, YouTube and other resources related to this course.
 
+# Material
+
+- [slides — διαφάνειες](slides)  
+- [notes — σημειώσεις](notes)  
+- [problems — προβλήματα](problems)  
+- [code in my GitHub](https://github.com/theofil/CompPhysics)  
+- [e-class](https://eclass.uoa.gr)  
+- [webfolder](webfolder)  
+- [Computational Physics Lectures 2025‑2026 on YouTube (16.10.2025)](https://youtu.be)  
+- [Computational Physics Lectures 2025‑2026 on YouTube (14.10.2025)](https://youtu.be)  
+- [Computational Physics Lectures 2021‑2022 on YouTube](https://www.youtube.com)  
+
 
 ### Disclaimer 
 The code in [CompPhysics/examples](https://github.com/theofil/CompPhysics/tree/master/examples) is provided for demonstration purposes and is written having in mind three principles:

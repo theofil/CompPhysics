@@ -8,17 +8,17 @@ Cloud-based **interactive** computing environment for the Computational Physics 
 
 Visit <a href="http://theofil.web.cern.ch/theofil/courses/compPhysics/"> http://theofil.web.cern.ch/theofil/courses/compPhysics/</a> for slides, notes, YouTube and other resources related to this course.
 
-# Material
+## Material
 
-- [slides — διαφάνειες](slides)  
-- [notes — σημειώσεις](notes)  
-- [problems — προβλήματα](problems)  
+- [slides — διαφάνειες](https://theofil.web.cern.ch/courses/compPhysics/files/2025/slides_KT.pdf)  
+- [notes — σημειώσεις](https://theofil.web.cern.ch/courses/compPhysics/files/2025/CP.pdf)  
+- [problems — προβλήματα](https://theofil.web.cern.ch/courses/compPhysics/files/2025/compPhysics_exercises_2025_2026.pdf)  
 - [code in my GitHub](https://github.com/theofil/CompPhysics)  
-- [e-class](https://eclass.uoa.gr)  
-- [webfolder](webfolder)  
-- [Computational Physics Lectures 2025‑2026 on YouTube (16.10.2025)](https://youtu.be)  
-- [Computational Physics Lectures 2025‑2026 on YouTube (14.10.2025)](https://youtu.be)  
-- [Computational Physics Lectures 2021‑2022 on YouTube](https://www.youtube.com)  
+- [e-class](https://eclass.uoa.gr/courses/PHYS192/)  
+- [webfolder](http://theofil.web.cern.ch/theofil/courses/compPhysics/files/)  
+- [Computational Physics Lectures 2025‑2026 on YouTube (ZOOM 16.10.2025)](https://youtu.be/ZzMa6ik7NeU)  
+- [Computational Physics Lectures 2025‑2026 on YouTube (ZOOM 14.10.2025)](https://youtu.be/Zwx3f4BGS0M)  
+- [Computational Physics Lectures 2021‑2022 on YouTube](https://www.youtube.com/playlist?list=PLH2Q81rjd-0FJRUEFJ7j1ekrAiFrDBzf5)  
 
 
 ### Disclaimer 

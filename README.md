@@ -1,6 +1,8 @@
 # Computational Physics -- Υπολογιστική Φυσική 10ΥΚΟ21
 
-Cloud-based **interactive** computing environment for the Computational Physics [Υπολογιστική Φυσική 10ΥΚΟ21](https://eclass.uoa.gr/modules/document/?course=PHYS192) course (3rd semester)  at National and Kapodistrian University of Athens (2019-2024). 
+Cloud-based **interactive** computing environment for the Computational Physics [Υπολογιστική Φυσική 10ΥΚΟ21](https://eclass.uoa.gr/modules/document/?course=PHYS192) course (3rd semester)  at National and Kapodistrian University of Athens (2019-2025). 
+
+**Notice**: as of 2026, I'll not be teaching anymore this course. The material found here, will remain for reference. 
 
 ## Run Python without installing it
 * Use the <a href="https://mybinder.org/v2/gh/theofil/binderEvn/minimal?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ftheofil%252FCompPhysics%26urlpath%3Dtree%252FCompPhysics%252F%26branch%3Dmaster"> binder enviroment created for this course</a> 
